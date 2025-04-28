@@ -7,3 +7,25 @@ bags/rosbag2*/
 src/object_detection/object_detection/dl_detection_model_weights/Set1/
 src/object_detection/object_detection/dl_detection_model_weights/test_images2/
 src/object_detection/object_detection/dl_detection_model_weights/test_images_corridor/
+
+
+# Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+
+# OS system files
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+.env/
+
+# Temporary files
+*.log
+*.tmp
+*.bak
