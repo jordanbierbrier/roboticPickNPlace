@@ -5,9 +5,17 @@ The robot, **Happy**, is an autonomous mobile robot system designed to detect, c
 
 The robot operates fully onboard without external computation, navigating within a defined workspace while avoiding obstacles and maximizing task efficiency.
 
-![Tracking Example](media/system.gif)
-![Tracking Example](media/pick.gif)
-![Tracking Example](media/detect.gif)
+<div align="center">
+  <img src="media/system.gif" alt="System Example">
+</div>
+
+<div align="center">
+  <img src="media/pick.gif" alt="Pick Example">
+</div>
+
+<div align="center">
+  <img src="media/detect.gif" alt="Detect Example">
+</div>
 
 ## Features
 - 📦 Detects and classifies objects into three categories (Cubes, Balls, Animals)
